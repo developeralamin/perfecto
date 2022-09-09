@@ -1,0 +1,433 @@
+
+
+
+@media all and (max-width:1000px){
+	.middle{
+		max-width:1000px!important;
+		
+	}
+}
+
+
+/* screen size 1410px */
+/* screen size 1410px */
+
+@media all and (max-width:1410px){
+	
+	.desing-img img{
+		margin-top:-140px;
+	}
+}
+
+
+/* screen size 1496px */
+/* screen size 1496px */
+
+@media all and (max-width:1496px){
+	
+	.header-top-area{
+		display:none;
+		
+	}
+	.header-area{
+		top:-0.5%;
+	}
+}
+
+/* screen size 1240px */
+/* screen size 1240px */
+@media all and (max-width:1240px){
+	
+	/* second service */
+	.single-second-service{
+		flex:0 0 30%;
+	}
+	.single-description p{
+		width:100%;
+	}
+}
+
+
+/* screen size 1240px */
+@media all and (max-width:1038px){
+	
+	/* second service */
+	.single-second-service{
+		flex:0 0 35%;
+	}
+	
+}
+
+
+
+
+
+
+
+/* screen size 1160px */
+/* screen size 1160px */
+
+@media all and (max-width:1160px){
+	
+	/* skill area  */
+	.single-skill-here{
+		flex:0 0 100%;
+		margin-bottom:30px;
+	}
+	.skill-head-text-left h1{
+		margin-left:0;
+		
+	}
+	.accordian{
+		max-width:100%;
+		
+	}
+	
+}
+
+
+
+
+
+
+@media all and (max-width:900px){
+	.desing-1img img{
+		display:none;
+	}
+	.desing-img img{
+	   margin-top:25px;
+	}
+	
+	.desing-text-head h1{
+		font-size:18px;
+	}
+	.desing-text-head  p{
+		font-size:11px;
+		width:87%;
+	}
+}
+
+
+
+/* screen size 824px */
+/* screen size 824px */
+
+@media all and (max-width:840px){
+	.banner-area{
+		background-size:cover;
+	}
+	/* header top */
+	.header-full{
+		display:none;
+	}
+	/* toggle bar */
+	.navr-toggle{
+		display:block;
+	}
+	/* menu ul */
+	.menu2 ul{
+	    display: none;
+		z-index: 9;
+	    top:104.5px;
+		width: 100%;
+		position: absolute;
+		background: #0c0d0d;
+		text-align: center;
+		right: 0px;
+			
+	}
+	.menu2 ul li a{
+		padding:12px 13px;
+		color:#ffff;
+	}
+	.menu2 ul li:nth-of-type(6) a{
+		padding:20px 0!important;
+	}
+	.menu2 ul{
+	
+	}
+	/* top search */
+	.top-search{
+		display:none;
+	}
+	
+	
+	/* banner area csss */
+	.bennar-heading-text h1{
+		font-size:20px;
+	}
+	.bennar-heading-text h5{
+		font-size:14px!important;
+	}
+	.benner-heading-text p{}
+	.bennar-description p{
+		font-size:10px;
+	}
+	
+	
+	/* first service areaa */
+	.single-service{
+		flex:0 0 50%;
+	}
+	
+	/* create love area  */
+	.single-create-love2{
+	      flex:0 0 100%;
+		  order:-1;
+		  margin-bottom:50px;
+      }
+	.single-create-love{
+		flex:0 0 100%;
+	}
+	
+	.single-love-text h1{
+		font-size:23px;
+	}
+	.single-love-text p{
+		font-size:12px;
+	}
+	
+	/* second service */
+	.single-second-service{
+		flex:0 0 80%;
+		text-align:center;
+	}
+	
+	/* team area css */
+	.main{
+		margin-top:20px;
+	}
+	
+	
+	
+}
+
+
+
+
+
+/* min height 840px */
+
+@media all and (min-width:840px){
+	.menu2 ul{
+		display:flex!important;
+	}
+}
+
+
+
+
+/* screen size 600px */
+@media all and (max-width:600px){
+	/* first service areaa */
+	.single-service{
+		flex:0 0 100%;
+		padding-bottom:30px;
+	}
+	
+	/* portfolio area  */
+	
+	.menu ul{
+		flex-direction:column;
+	
+	}
+	.menu ul li{
+			margin-top:14px;
+	}
+	.item1{
+		grid-column:1/8;
+	}
+	.item2{
+		grid-column:1/5;
+	}
+	.item3{
+		grid-column:5/8;
+	}
+	
+	.item4{
+		grid-column:1/5;
+	}
+	
+	.item5{
+		grid-column:5/8;
+	}
+	
+	/* love area  */
+	.single-love2-text h1{
+		font-size:20px;
+	}
+	.single-love2-text p{
+		font-size:12px;
+	}
+	
+	/* latest post area  */
+	.single-post-description p{
+		width:68%;
+	}
+	
+	/* first menu area */
+	.menu-footer ul li{
+		margin-right:9px;
+	}
+	.menu-footer ul li a i{
+		width:40px;
+		height:40px;
+		line-height:39px;
+	}
+	
+	
+	/* footer2 area css */
+	
+	.footer-menu-under2{
+		margin-left:-10px;
+	}
+	
+	
+	
+}
+
+
+
+/* screen size 680px */
+/* screen size 680px */
+@media all and (max-width:680px){
+	/* packages area */
+	.single-packge{
+		flex:0 0 100%;
+	}
+}
+
+
+
+/* screen size 480px */
+/* screen size 480px */
+/* screen size 480px */
+
+@media all and (max-width:480px){
+	/* logo css */
+	.logo{
+		width:140px;
+	}
+	/* toggle bar */
+	.navr-toggle{
+		right:22px;
+		
+	}
+	.menu2 ul{
+		top:104px;
+		right:0;
+		width:100%;
+	}
+	/* bennar area css */
+	.bennar-heading-text h1{
+		font-size:15px;
+		margin-top:17px;
+	}
+	.bennar-heading-text h5{
+		font-size:12px!important;
+		width:60%
+	}
+	.bennar-description p{
+		font-size:10px;
+		width:102%;
+	}
+	
+	
+	/* desing area css */
+	.desing-img img{
+	    margin-top:25px;
+		width:80%;
+	}
+	.desing-text-head h1{
+		font-size:13px;
+	}
+	.desing-text-head p{
+		font-size:10px;
+		width:99%;
+	}
+	
+	/* portfolio area  */
+	.project-area h1{
+		font-size:20px;
+	}
+	
+	
+	.item1{
+		grid-column:1/8;
+	}
+	.item2{
+		grid-column:1/8;
+	}
+	.item3{
+		grid-column:1/8;
+	}
+	
+	.item4{
+		grid-column:1/8;
+	}
+	
+	.item5{
+		grid-column:1/8;
+	}
+	
+	/* skill area css */
+	.skill-head-text-left h1{
+		font-size:20px;
+	}
+	.skill-head-text-right h1{
+		font-size:20px;
+	}
+	
+	/* lover create area  */
+	.single-love-text h1{
+		font-size:19px;
+	}
+	/* second service area */
+	.single-description h2{
+		font-size:17px;
+	}
+	
+	/* second over */
+	
+	.single-love2-text h1{
+		width:189%;
+		font-size:20px;
+	}
+	.single-love2-text p{
+		width:208%;
+	}
+	.single-love2-btn{
+		margin-top:165%;
+	}
+	
+	/* member area */
+	.main{
+		margin-top:10px;
+	}
+	.name-description h5{
+		margin-top:-5px;
+	}
+	
+	/* latest post */
+	.single-post{
+		margin-top:30px;
+	}
+	
+	
+	/* first footer  */
+	.menu-footer ul li{
+		margin-right:4px;
+	}
+	.menu-footer ul li a i{
+		width:36px;
+		height:36px;
+		line-height:35px;
+	}
+	/* footer2 area css */
+	
+	.footer-menu-under2 ul li a {
+		padding:5px 4px;
+	}
+	
+}
+
